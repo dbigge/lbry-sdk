@@ -3,7 +3,7 @@ import asyncio
 import random
 from argparse import ArgumentParser
 from lbry.wallet.client.basenetwork import ClientSession
-
+#wtf?
 
 class AgentSmith(ClientSession):
 
